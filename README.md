@@ -1,8 +1,13 @@
 # Research_publication_results
-I am adding all the results that have used for publications will be uploaded here. If you use our resluts please cite the following articles below. 
+I am adding all the results that have been used for publications will be uploaded here. If you use our results please cite the following articles below. 
+
+# Salient object detection results
+
+This repository contains various versions of results that have been used for the manuscript
+[![DOI](https://link.springer.com/article/10.1007/s00521-020-05081-5)]()
 
 ## Salient object detection in videos
-
+```
 @article{kompella2021semi,
   title={A semi-supervised recurrent neural network for video salient object detection},
   author={Kompella, Aditya and Kulkarni, Raghavendra V},
@@ -14,8 +19,10 @@ I am adding all the results that have used for publications will be uploaded her
   publisher={Springer}
 }
 
+```
 ## Salient object detection in images
 
+```
 @article{kompella2020weakly,
   title={Weakly supervised multi-scale recurrent convolutional neural network for co-saliency detection and co-segmentation},
   author={Kompella, Aditya and Kulkarni, Raghavendra V},
@@ -26,3 +33,5 @@ I am adding all the results that have used for publications will be uploaded her
   year={2020},
   publisher={Springer}
 }
+
+```
