@@ -3,8 +3,10 @@ I am adding all the results that have been used for publications will be uploade
 
 # Salient object detection results
 
-This repository contains various versions of results that have been used for the manuscript
-[![DOI](https://zenodo.org/badge/doi/10.1101/226001.svg)](https://link.springer.com/article/10.1007/s00521-020-05081-5)
+This repository contains various versions of results that have been used for the manuscripts
+[![DOI](https://zenodo.org/badge/doi/10.1007/s00521-020-05081-5.svg)](https://link.springer.com/article/10.1007/s00521-020-05081-5)
+
+[![DOI](https://zenodo.org/badge/doi/10.1007/s00521-019-04265-y.svg)](https://link.springer.com/article/10.1007/s00521-019-04265-y)
 
 ## Salient object detection in videos
 ```
