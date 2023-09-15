@@ -1,5 +1,5 @@
 # Research_publication_results
-I am adding all the results that have been used for publications will be uploaded here. If you use our results please cite the following articles below. 
+I am adding all the results that have been used for publications here. If you use our results please cite the following articles. 
 
 # Salient object detection results
 
@@ -38,4 +38,4 @@ This repository contains various versions of results that have been used for the
 }
 
 ```
-#### NOTE: The algorithm architecture has been changing by adding additional layers or activation functions. Results may have changed from what we have published in the manuscript. 
+#### NOTE: The algorithm architecture has been changed by adding additional layers or activation functions. Results may have changed from what we have published in the manuscript. 
