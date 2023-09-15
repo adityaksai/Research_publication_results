@@ -38,3 +38,4 @@ This repository contains various versions of results that have been used for the
 }
 
 ```
+# NOTE: The algorithm architecture has been changing by adding additional layers or activation functions. Results may have changed from what we have published in the manuscript. 
